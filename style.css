@@ -1,0 +1,19 @@
+#circles{
+  width:80%;
+  margin:auto;
+  text-align: center;
+}
+
+.circle{
+  position: relative;
+  width:100px;
+  height: 100px;
+  margin:4px;
+  display:inline-block;
+  border-radius: 50%;
+}
+
+.darkred {background-color: #AA3C39}
+.orange{background-color: #FF1900}
+.blue{background-color: #202C56}
+.yellow{background-color: #FFE100}
